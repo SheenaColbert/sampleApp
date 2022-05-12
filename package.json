@@ -1,0 +1,22 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheenaColbert/sampleApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheenaColbert/sampleApp/issues"
+  },
+  "homepage": "https://github.com/SheenaColbert/sampleApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
